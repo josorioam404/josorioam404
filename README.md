@@ -43,6 +43,7 @@
 | [**NEOLUM — Visual Automata Simulator**](https://automatons-visualizer-compilers.netlify.app/) | Generates NFA-λ, NFA and DFA automata from a regular expression or edge list using the Ken Thompson algorithm. Deployed live. | TypeScript, Netlify |
 | [**Interactive Student Curriculum**](https://github.com/josorioam404/Interactive-Student-Curriculum) | Full-stack platform for engineering students at Universidad Nacional de Colombia. Team project (5 devs). | FastAPI, Spring Boot, TypeScript, Docker |
 | [**Pendulum Simulator**](https://github.com/josorioam404/pendulum) | Multi-pendulum simulator (simple / double / triple, up to 16 simultaneous) with RK4 integration, audio sonification, friction modes and real-time energy diagnostics. | C, Raylib, CMake |
+| [**Knowledge Base Viewer**](https://github.com/josorioam404/knowledge_base) | Local-first file browser and reader for Markdown, PDF, HTML and LaTeX. Features a reactive indexing system, real-time sync via SSE, tokenized in-memory search, and lazy PDF rendering via IntersectionObserver. | Node.js, Express, Vanilla JS, Docker |
 
 ---
 
